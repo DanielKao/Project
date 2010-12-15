@@ -1,0 +1,2 @@
+/Users/DanielKao/Desktop/MAD project/Classes/AddNewBoughtItemController.m: In function '-[AddNewBoughtItemController observeValueForKeyPath:ofObject:change:context:]':
+/Users/DanielKao/Desktop/MAD project/Classes/AddNewBoughtItemController.m:68: warning: unused variable 'cell'
